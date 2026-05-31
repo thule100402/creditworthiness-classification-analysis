@@ -121,7 +121,7 @@ Parameters:
 
 ## Repository Structure
 
-```text
+```
 data/       → raw and processed datasets
 code/    → code and generated outputs
 report/     → final report
