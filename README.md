@@ -100,26 +100,6 @@ Parameters:
 
 ---
 
-## Results
-
-### SOM Findings
-
-- 100 total nodes
-- 24 pure nodes
-- 76 mixed nodes
-
-The SOM revealed significant overlap between credit classes, indicating that risk categories are not cleanly separated in feature space.
-
-### MLP Performance
-
-| Metric | Training | Testing |
-|----------|----------|----------|
-| Accuracy | 74.1% | 52.6% |
-
-Class B achieved the strongest performance while Classes A and C experienced substantial confusion.
-
----
-
 ## Key Findings
 
 - Creditworthiness exists on a continuum rather than as distinct groups.
