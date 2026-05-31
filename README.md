@@ -127,19 +127,6 @@ Class B achieved the strongest performance while Classes A and C experienced sub
 - Significant overlap between classes makes classification challenging.
 - The current neural network exhibits signs of overfitting.
 
----
-
-## Future Improvements
-
-Potential enhancements include:
-
-- SMOTE for class balancing
-- Cross-validation
-- Hyperparameter tuning
-- Larger neural network architectures
-- XGBoost and Random Forest benchmarking
-- Feature engineering from balance history
-- Probability calibration for deployment
 
 ---
 
@@ -155,18 +142,9 @@ Potential enhancements include:
 ## Repository Structure
 
 ```text
-src/        → analysis scripts
 data/       → raw and processed datasets
-results/    → generated outputs
+code/    → code and generated outputs
 report/     → final report
-docs/       → supporting documentation
 ```
 
 ---
-
-## Author
-
-Ngo Minh Thu Le
-INFO911 – Data Mining and Knowledge Discovery
-University of Wollongong
-2025
